@@ -55,6 +55,7 @@ Based on the official Docker images from Elastic:
 1. Install [Docker](https://www.docker.com/community-edition#/download) version **17.05+**
 2. Install [Docker Compose](https://docs.docker.com/compose/install/) version **1.6.0+**
 3. Clone this repository
+4. Following the guide here:  https://logz.io/blog/elk-stack-on-docker/ **evb-specific**
 
 ### SELinux
 
